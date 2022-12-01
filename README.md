@@ -9,3 +9,5 @@ A curated list of Multimodal Deepfakes Detection papers and code.<br />
 
 ## Datasets:
 1. [FakeAVCeleb (2021)](https://sites.google.com/view/fakeavcelebdash-lab/?pli=1)<br />
+2. [DFDC (2019)](https://ai.facebook.com/datasets/dfdc/)<br />
+3. [DeepfakeTIMIT (2018)](https://www.idiap.ch/en/dataset/deepfaketimit)<br />
