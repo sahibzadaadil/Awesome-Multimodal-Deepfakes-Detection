@@ -8,3 +8,4 @@ A curated list of Multimodal Deepfakes Detection papers and code.<br />
 6. [Emotions Don’t Lie: An Audio-Visual Deepfake Detection Method using Affective Cues (2020)](https://arxiv.org/pdf/2003.06711.pdf)<br />
 
 ## Datasets:
+1. [FakeAVCeleb (2021)] (https://sites.google.com/view/fakeavcelebdash-lab/?pli=1)<br />
