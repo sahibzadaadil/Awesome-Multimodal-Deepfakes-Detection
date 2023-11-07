@@ -6,6 +6,7 @@ A curated list of Multimodal Deepfakes Detection papers and code.<br />
 4. [Joint Audio-Visual Deepfake Detection (2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)<br />
 5.  [Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization (2021)](https://arxiv.org/pdf/2005.14405.pdf)<br />
 6. [Emotions Don’t Lie: An Audio-Visual Deepfake Detection Method using Affective Cues (2020)](https://arxiv.org/pdf/2003.06711.pdf)<br />
+7. [AVTENet: Audio-Visual Transformer-based Ensemble Network Exploiting Multiple Experts for Video Deepfake Detection (2023)](https://arxiv.org/pdf/2310.13103.pdf)<br />
 
 ## Datasets:
 1. [FakeAVCeleb (2021)](https://sites.google.com/view/fakeavcelebdash-lab/?pli=1)<br />
